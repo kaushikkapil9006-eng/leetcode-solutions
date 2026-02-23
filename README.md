@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
