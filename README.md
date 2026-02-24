@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0507-perfect-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0507-perfect-number) |
+| [0877-stone-game](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0877-stone-game) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Bit Manipulation
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0877-stone-game](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0877-stone-game) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
@@ -42,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
