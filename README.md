@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0258-add-digits](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0877-stone-game) |
 | [2396-strictly-palindromic-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
