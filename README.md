@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0877-stone-game) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0287-find-the-duplicate-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 ## Array
 |  |
 | ------- |
