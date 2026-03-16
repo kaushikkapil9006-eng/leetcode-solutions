@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0202-happy-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0367-valid-perfect-square) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0268-missing-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -42,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -54,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Counting
@@ -71,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
