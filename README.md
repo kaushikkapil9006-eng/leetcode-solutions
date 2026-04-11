@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Number Theory
 |  |
 | ------- |
@@ -144,8 +145,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0657-robot-return-to-origin](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
