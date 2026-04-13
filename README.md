@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Array
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Counting
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
