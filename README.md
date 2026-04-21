@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0326-power-of-three) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0258-add-digits) |
 ## Recursion
 |  |
@@ -159,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
