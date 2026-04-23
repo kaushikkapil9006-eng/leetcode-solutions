@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0202-happy-number) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
