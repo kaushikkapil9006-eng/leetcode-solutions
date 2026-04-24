@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0067-add-binary) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0415-add-strings) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0344-reverse-string) |
