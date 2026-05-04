@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0504-base-7) |
 | [0657-robot-return-to-origin](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
