@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0415-add-strings) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0877-stone-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Counting
 |  |
