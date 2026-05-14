@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2784-check-if-array-is-good](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [2784-check-if-array-is-good](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [2784-check-if-array-is-good](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 ## Counting
 |  |
 | ------- |
