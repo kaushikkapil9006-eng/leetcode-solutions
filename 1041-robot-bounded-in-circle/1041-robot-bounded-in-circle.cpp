@@ -12,7 +12,7 @@ public:
                 else x--;
             }
             else if(ch == 'L') {
-                dir = (dir + 3) % 4;
+                dir = (dir + 3) % 4; // dir + 3 bhi kr skte h 
             }
             else if(ch == 'R') {
                 dir = (dir + 1) % 4;
