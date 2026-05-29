@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2582-pass-the-pillow](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2582-pass-the-pillow) |
 | [2652-sum-multiples](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2652-sum-multiples) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
