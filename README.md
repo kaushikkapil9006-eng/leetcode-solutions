@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3689-maximum-total-subarray-value-i](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0179-largest-number) |
 | [1323-maximum-69-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1323-maximum-69-number) |
+| [3689-maximum-total-subarray-value-i](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## String Matching
 |  |
 | ------- |
