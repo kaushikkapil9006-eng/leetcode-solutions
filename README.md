@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1041-robot-bounded-in-circle](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2315-count-asterisks](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2315-count-asterisks) |
 | [2810-faulty-keyboard](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 | [2833-furthest-point-from-origin](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3612-process-string-with-special-operations-i](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
