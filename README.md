@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1041-robot-bounded-in-circle](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1041-robot-bounded-in-circle) |
+| [1154-day-of-the-year](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1154-day-of-the-year) |
 | [1323-maximum-69-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [2396-strictly-palindromic-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0821-shortest-distance-to-a-character](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1041-robot-bounded-in-circle](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1041-robot-bounded-in-circle) |
+| [1154-day-of-the-year](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1154-day-of-the-year) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2315-count-asterisks](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2315-count-asterisks) |
 | [2810-faulty-keyboard](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2810-faulty-keyboard) |
