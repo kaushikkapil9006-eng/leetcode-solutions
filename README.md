@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0650-2-keys-keyboard](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0650-2-keys-keyboard) |
 | [0728-self-dividing-numbers](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1025-divisor-game) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0509-fibonacci-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0650-2-keys-keyboard](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0650-2-keys-keyboard) |
 | [0877-stone-game](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Game Theory
