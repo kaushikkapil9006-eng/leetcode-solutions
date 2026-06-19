@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0877-stone-game](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0877-stone-game) |
 | [1306-jump-game-iii](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1306-jump-game-iii) |
+| [1732-find-the-highest-altitude](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2126-destroying-asteroids](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2126-destroying-asteroids) |
@@ -289,5 +290,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
