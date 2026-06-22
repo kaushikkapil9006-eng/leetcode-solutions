@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1189-maximum-number-of-balloons](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2540-minimum-common-value](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 ## Two Pointers
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0415-add-strings) |
