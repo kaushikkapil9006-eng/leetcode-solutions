@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1041-robot-bounded-in-circle](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1041-robot-bounded-in-circle) |
+| [1137-n-th-tribonacci-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1154-day-of-the-year) |
 | [1323-maximum-69-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0650-2-keys-keyboard) |
 | [0877-stone-game](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Game Theory
 |  |
 | ------- |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
