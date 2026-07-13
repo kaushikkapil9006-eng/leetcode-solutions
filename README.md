@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1291-sequential-digits) |
 ## Backtracking
 |  |
 | ------- |
