@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1518-water-bottles](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1518-water-bottles) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2582-pass-the-pillow](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2582-pass-the-pillow) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2126-destroying-asteroids](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
