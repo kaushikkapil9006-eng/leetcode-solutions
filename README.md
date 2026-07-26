@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -364,5 +365,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
