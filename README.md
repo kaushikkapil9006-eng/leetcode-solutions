@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1518-water-bottles](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1518-water-bottles) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2469-convert-the-temperature) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
