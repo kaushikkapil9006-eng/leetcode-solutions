@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3731-find-missing-elements](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2540-minimum-common-value](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+| [3731-find-missing-elements](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Divide and Conquer
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3536-maximum-product-of-two-digits](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
