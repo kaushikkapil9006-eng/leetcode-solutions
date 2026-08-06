@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Backtracking
 |  |
 | ------- |
