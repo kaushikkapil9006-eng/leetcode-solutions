@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1518-water-bottles](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1518-water-bottles) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
