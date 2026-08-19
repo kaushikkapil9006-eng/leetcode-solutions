@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -435,4 +436,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
