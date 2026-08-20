@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [2487-remove-nodes-from-linked-list](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
 |  |
@@ -440,4 +443,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0155-min-stack) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
