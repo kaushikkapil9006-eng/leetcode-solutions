@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-calculate-money-in-leetcode-bank](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2119-a-number-after-a-double-reversal](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2396-strictly-palindromic-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2427-number-of-common-factors](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2469-convert-the-temperature) |
