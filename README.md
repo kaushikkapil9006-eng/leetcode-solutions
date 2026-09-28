@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0134-gas-station](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0179-largest-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1323-maximum-69-number) |
