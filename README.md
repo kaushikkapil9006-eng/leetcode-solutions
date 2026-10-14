@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 ## Data Stream
 |  |
