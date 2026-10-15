@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0067-add-binary) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0066-plus-one) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
