@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2540-minimum-common-value](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3731-find-missing-elements](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -550,4 +553,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
