@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Data Stream
 |  |
 | ------- |
