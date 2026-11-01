@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0566-reshape-the-matrix](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0821-shortest-distance-to-a-character](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0415-add-strings) |
 | [0537-complex-number-multiplication](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0537-complex-number-multiplication) |
+| [0566-reshape-the-matrix](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0867-transpose-matrix) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0566-reshape-the-matrix](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
