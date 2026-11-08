@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1306-jump-game-iii](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2540-minimum-common-value](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
