@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1267-count-servers-that-communicate](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1306-jump-game-iii](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [2833-furthest-point-from-origin](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
@@ -461,10 +463,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1306-jump-game-iii) |
 ## Memoization
 |  |
@@ -562,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -582,4 +587,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
