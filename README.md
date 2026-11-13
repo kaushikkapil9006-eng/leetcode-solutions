@@ -596,4 +596,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/kaushikkapil9006-eng/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
